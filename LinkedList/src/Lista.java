@@ -4,8 +4,6 @@ public class Lista {
 	public int tamanio=0;
 	Nodo nodito = new Nodo();
 	
-	public Nodo contador;
-	
 	
 	public boolean esVacia(){
         return inicio == null;
